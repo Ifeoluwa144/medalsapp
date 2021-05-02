@@ -1,0 +1,2 @@
+# medalsapp
+A django application
